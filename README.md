@@ -84,16 +84,16 @@ Features: “Includes real-time notifications, budgeting tools, and integration 
 
 
 ## References
-Brown, T. (2021). Effective Technical Writing for Diverse Audiences. TechComm Press.
-Carter, R. (2019). Simplifying Language in Technical Communication. Plain Words Publishing.
-GitHub Documentation. (2020). Best Practices for Readme Files. Retrieved from https://docs.github.com.
-Jones, A. (2020). Readability and Structure in Technical Documents. Journal of Technical Communication, 35(4), 45-60.
-Lee, H. (2019). Understanding User Knowledge for Documentation. Tech Writing Quarterly, 28(2), 112-125.
-Miller, J. (2018). Audience Analysis in Technical Writing: Methods and Implications. University of Plain Language Studies.
-Morrison, P. (2019). Visual Communication in Technical Writing. Visual Studies in Communication, 22(1), 15-30.
-National Institute for Plain Language. (2018). Guidelines for Clear Communication. Plain Language International. Retrieved from https://plainlanguage.gov.
-Plain Language Association. (2020). Writing for Accessibility. Plain Language Association.
-Smith, R. (2022). Adapting Technical Concepts for Lay Audiences. ClearText Publishing.
-Taylor, S. (2021). Visual Tools in Explaining Technical Concepts. Effective Visuals Press.
-White, K. (2021). Glossaries and Accessibility in Technical Writing. UserFocus Publications.
-Williams, J. (2017). The Power of Plain Language in Technical Writing. Readable Content Books.
+1. Brown, T. (2021). Effective Technical Writing for Diverse Audiences. TechComm Press.
+2. Carter, R. (2019). Simplifying Language in Technical Communication. Plain Words Publishing.
+3. GitHub Documentation. (2020). Best Practices for Readme Files. Retrieved from https://docs.github.com.
+4. Jones, A. (2020). Readability and Structure in Technical Documents. Journal of Technical Communication, 35(4), 45-60.
+5. Lee, H. (2019). Understanding User Knowledge for Documentation. Tech Writing Quarterly, 28(2), 112-125.
+6. Miller, J. (2018). Audience Analysis in Technical Writing: Methods and Implications. University of Plain Language Studies.
+7. Morrison, P. (2019). Visual Communication in Technical Writing. Visual Studies in Communication, 22(1), 15-30.
+8. National Institute for Plain Language. (2018). Guidelines for Clear Communication. Plain Language International. Retrieved from https://plainlanguage.gov.
+9. Plain Language Association. (2020). Writing for Accessibility. Plain Language Association.
+10. Smith, R. (2022). Adapting Technical Concepts for Lay Audiences. ClearText Publishing.
+11. Taylor, S. (2021). Visual Tools in Explaining Technical Concepts. Effective Visuals Press.
+12. White, K. (2021). Glossaries and Accessibility in Technical Writing. UserFocus Publications.
+13. Williams, J. (2017). The Power of Plain Language in Technical Writing. Readable Content Books.
